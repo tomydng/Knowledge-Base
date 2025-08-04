@@ -163,6 +163,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Podgorica](#podgorica)
     - [Budva](#budva)
     - [Kotor](#kotor)
+    - [Bar](#bar)
   - [Morocco](#morocco)
     - [Taxis in Morocco](#taxis-in-morocco)
     - [Tangiers](#tangiers)
@@ -2799,6 +2800,8 @@ TODO: add hostel's recommendation page here too
 
 TODO:
 
+- [Cioccolatitaliani](https://maps.app.goo.gl/q6mbPZWmNp7SgKzT9) - cafe / restaurant / gelateria with fresh juices and
+  decent menu
 - [Itaka Library Bar](https://maps.app.goo.gl/EMrxXn1XTucghLF19) - €6 cocktails in a hidden local gem under the bridge
 - [Picerija Ćošak](https://maps.app.goo.gl/N44VXD9rJivBLc6z8) - recommended by my hostel host, particularly their
   pancerote, a sort of dumpling with a special melted cheese and tomato sauce inside
@@ -2807,6 +2810,12 @@ TODO:
   The sauce was mayonnaise mustard with bits of garlic in it,
   and the local beer Pivo Podgorica is a local beer made only 4km away
 - [Kaldrma - Podgorica](https://maps.app.goo.gl/vcm5aNtFEUPnFEyg6) - highly rated 4.9
+- [SMASH Pub - Craft and Burger](https://maps.app.goo.gl/QyTbQunNvj4gEKxA7) - good looking burger menu at reasonable
+  prices
+- [CHi LE MA](https://maps.app.goo.gl/ddCu5jxAjMLwxX688) - asian restaurant
+- [Antioch Restaurant](https://maps.app.goo.gl/zmvRWApKXjXa6dMV9) - turkish restaurant
+- [Gloria Jean’s Coffee](https://maps.app.goo.gl/XP1mZqPEmJuorFho9) - international coffee chain I first discovered in
+  Tbilisi, Georgia
 - [MEAT](https://maps.app.goo.gl/Cspeh1AGzvGe7voaA) - steak restaurant near Big Fashion Mall
 
 #### Budva
@@ -2865,6 +2874,42 @@ You will need just over 1 hour to wander around the fortress - longer if you're 
   The toilets in this mall even charge you €1 if you don't have a shopping receipt,
   so go buy a drink or something in the supermarket first to use its receipt to enter the toilets for free.
 - [Kotor Cats Museum](https://maps.app.goo.gl/sRLyBjuAPeBADQyw5)
+
+#### Bar
+
+A small seaside town, but the beach is not as good as Budva which is much more popular.
+
+- [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - decent menu but slightly touristy prices.
+  The fresh squeezed orange juice was good and a decent size for €3 filling a 330ml glass, slightly more than Perbacco
+  next door.
+  The octopus salad was quite large, a serious main, but then it should be for €18, slightly less than Perbacco next
+  door too.
+  It contains a good amount of octopus tentacle, a lot of lettuce as well as cherry tomatoes, red onions and some
+  garlic, but also a lot of green olives (stone in) which were at the very strong olive flavour end of the spectrum,
+  probably too strong for the salad.
+  If you're not a fan of olives, make sure you ask them to not add them.
+  Wifi 36/28 Mbit/s
+- [Bar Promenade](https://maps.app.goo.gl/v9ULTeZpgaxfSeCP9) - promenade with palm trees and restaurants
+- [King Nikola's Palace](https://maps.app.goo.gl/ApKD1r4VKn8bo2Y68) - was closed when I was there
+- [Park muzeja](https://maps.app.goo.gl/qqxXMpVdhYCCA5V58) - nature reserve next to Bar Promenade and King Nikola's
+  Palace
+- [Topolica Sports Hall](https://maps.app.goo.gl/3u1DqWZohiLr2gc17) - tonnes of
+  [parking](https://maps.app.goo.gl/wWX9TLmqt8t7Zkdg7) here, a restaurant and sports facilities eg. a gym, and a big
+  competitive karate club
+- [Topolica City Beach](https://maps.app.goo.gl/6HZ1zGzcw1hxCLAq6) /
+  [Barska plaza](https://maps.app.goo.gl/meTe4SvHHzP7xQAX9) - small pebble beach with harbour, nothing special,
+  Bar promenade runs parallel to it
+- [Church of St. Jovan Vladimir](https://maps.app.goo.gl/gcJNG8rwBHsnYTxF9)
+
+TODO:
+
+- [Chico Rico](https://maps.app.goo.gl/ekZz6W8tyLa2xfHo9) /
+  [Skerovic Plaza](https://maps.app.goo.gl/kUdm4qTvP9ebFFww5) - beaches to the north of Bar Promenade
+- [Caffe Pizzeria Perbacco](https://maps.app.goo.gl/BBhhozLefqvv1t547) - slightly pricier than Karuba above, but
+  similar menu and similarly highly rated
+- [Pizza Pub PULENA](https://maps.app.goo.gl/UEcARcZHZpio9kb78) - popular and highly rated, everybody sitting outside had pizzas - save it for a fat day
+- [JALA street food](https://maps.app.goo.gl/A6SRt7uiKQrbBkMt9) - affordable burgers and tortillas
+- [Central Park Cafe Montenegro](https://maps.app.goo.gl/hY4KyXBtz7mp3GP76)
 
 ### Morocco
 
