@@ -109,6 +109,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [České Budějovice](#české-budějovice)
     - [Kutna Hora](#kutna-hora)
     - [Hradec Kralove](#hradec-kralove)
+  - [Denmark](#denmark)
+    - [Copenhagen](#copenhagen)
+      - [Copenhagen Restaurants](#copenhagen-restaurants)
   - [Estonia](#estonia)
     - [Tallinn](#tallinn)
   - [France](#france)
@@ -917,7 +920,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 41
+Number of Countries: 42
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -951,6 +954,37 @@ I was lucky to get one.
 
 [Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
 
+- [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
+  [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
+  [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - excellent upmarket seafood restaurant at surprisingly
+  reasonable prices, good decor, ambience, and trendy pop music (many from my Upbeat & Sexual Pop
+  [Spotify playlist](https://open.spotify.com/user/harisekhon)).
+  This is a good place to bring a date. All three have the same menu.
+  These have got to be among the best restaurants in Tirana, and deserve the high rating.
+  Bati 2 is just off the main road such that I passed it twice trying to find it, but a hidden gem,
+  busy, filled with locals even on a Wednesday night.
+  The food was very good quality, although most of the fish dishes are priced by weight,
+  which means they are not for people on a budget, but thankfully the seafood linguine was very reasonably priced at
+  600 leks (€6).
+  The tomato, garlic and parmesan bruschetta were a perfect starter - 6 small, slightly salty, bruschetta with tomato
+  and parmesan flakes.
+  I don't recall having better bruschetta than these anywhere, and for 250 leks (€2.50) you have to have them.
+  The seafood linguine was similarly perfect, with al dente pasta, and a mix of seafood including prawns, octopus and
+  muscles. It's not a big portion, a large bowl plate with the centre filled. This left space for dessert though.
+  The _"Baked Cheesecake"_ is actually a Basque Burnt style cheesecake which does not have a biscuit base
+  and comes with a caramelized top and a scoop of vanilla ice cream on the side, and only a few crumbs of biscuit
+  garnish on the side.
+  If you're thinking of New York style cheesecake with the biscuit base,
+  you need to choose the plain cheesecake, not the baked one.
+  The waiter's English wasn't that good so they failed to distinguish the difference properly, saying one was baked and
+  came with ice cream but forgot to mention there was no biscuit base.
+  The chef gave me an additional regular cheesecake when I queried why there was no biscuit base.
+  Comparing the two, the Basque Burnt style _"Baked Cheesecake"_
+  was the perfect amount of subtle sweetness, while the New York style cheesecake with apricot sauce on it was much
+  sweeter.
+  The only point I could possibly deduct for this place was
+  that they had no juices, at all leaving me to buy mineral water in glass bottle.
+  Wifi 92/34 Mbit/s
 - [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
   It was recommended by one of my fellow foodie travel buddies.
   This place is apparently not a well kept secret at all as the place was packed out, and we had to queue for half an
@@ -2017,6 +2051,24 @@ stopped here driving between Prague and Wroclaw, Poland.
   either - get the classic pork tenderloin schnitzel if you must.
   Next time I would go with the beef rump steak or confit duck (apparently a sizeable portion).
   42/10 Mbit/s wifi
+
+### Denmark
+
+#### Copenhagen
+
+I worked out here for 4 months in 2017, but I returned to the UK early
+(honestly to date who became my long-term girlfriend and 2nd baby mama, the one I loved the most).
+
+I was also glad to return to the UK because the food in Denmark was nowhere near as good as London but
+twice the price.
+
+The weather was almost identically bad to the UK.
+
+##### Copenhagen Restaurants
+
+- [Halifax Burger](https://www.halifax.dk/) - Denmark's equivalent burger chain to Gourmet Burger Kitchen. This was my
+  goto restaurant to get a consistent good quality after being disappointed in so many other restaurants in Denmark
+- [Hooked](https://maps.app.goo.gl/zApDAR1MEfCotwze7) - fast food lobster restaurant, was ok, but only ate there once
 
 ### Estonia
 
@@ -4514,28 +4566,39 @@ visit most of the UK today.
 
 #### Best Parts of the UK
 
-The best remaining parts of the UK are:
+The best remaining parts of the UK (nearly all in the South of England):
 
-- Central London (not most of outer London which is ghettoized)
-- Oxford
-- Cambridge
-- Reading
+- Central London (not most of outer London which is ghettoized) - see section below as London is big
+- [Oxford](https://maps.app.goo.gl/gP2h4d7aRoq2Fzx29)
+- [Cambridge](https://maps.app.goo.gl/ZgTir3NfqvxucahEA)
+- [Reading](https://maps.app.goo.gl/sPzxGJPXa59LGvHM6)
 - Surrey:
-  - Richmond and Kingston and their surrounding areas such as:
-    - [Richmond Park](https://maps.app.goo.gl/PdfMZLVtS5SgSGYK9) - take a picknick, there is a Whole Foods in Richmond
-      if you want to splurge
+  - [Richmond](https://maps.app.goo.gl/yPh8mShGfzVQHBcy6) and [Kingston](https://maps.app.goo.gl/M9HuE2gAX62EjEW7A) and
+    their surrounding areas such as:
+    - [Richmond Park](https://maps.app.goo.gl/PdfMZLVtS5SgSGYK9) - it has deer and lots of lovely areas.
+      Take a picnic, there is a Whole Foods in central Richmond if you want to splurge -
+      they call it _"Whole Paycheck"_ for a reason!
     - [Hampton Court Palace](https://maps.app.goo.gl/6dy7Ma2t832Y6mXK6) gardens
     - [Bushy Park](https://maps.app.goo.gl/aZybp3DBTMM6LJ6a8) which also has deer
-  - Surrey Hills, Guildford, Box Hill, Reigate etc.
-  - Cotswolds
-  - Winchester
-  - various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
-- Hertfordshire - St Albans and [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
-- BlueWater - the largest mall in the UK (you need a car to get there, but the parking is free)
+  - [Guildford](https://maps.app.goo.gl/MEpmEjHJbAqvraVM8)
+  - [Surrey Hills](https://maps.app.goo.gl/ktbzh6Cnfszf8qT36) / [Box Hill](https://maps.app.goo.gl/2XxsX32w9P1o9sao8)
+  - [Reigate](https://maps.app.goo.gl/jVpfDNn47rKbUNUd7)
+- Somerset:
+  - [Bath](https://maps.app.goo.gl/wEBK9mJPCH96j5P26) - ancient Roman bath town
+- Gloucestershire:
+  - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
+- Hampshire:
+  - [Winchester](https://maps.app.goo.gl/qcvnr5q2rkPygp4s8)
+- various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
+- Hertfordshire
+  - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
+- York - probably the most gentrified part of the north due to the historic architecture, lots of nice coffee shops
+- [BlueWater](https://maps.app.goo.gl/zerwEJAEKUbvE8LT7) - the largest mall in the UK (you need a car to get there, but
+  there are extensive free car parks surrounding it)
+- [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6), Scotland - small historic city. The restaurants get booked out, so need
+  reservations.
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
-
-If you're visiting Edinburgh in Scotland, the restaurants get booked out, so you need to book in advance.
 
 #### Best of London
 
