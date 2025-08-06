@@ -10,13 +10,19 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Flights](#flights)
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
-  - [Flights Gotchas](#flights-gotchas)
+  - [Flight Gotchas](#flight-gotchas)
+    - [Luggage](#luggage)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
 - [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
-  - [Hotel, Hostel & Airbnb - Parking](#hotel-hostel--airbnb---parking)
-  - [Hotel & Airbnb - Internet](#hotel--airbnb---internet)
+  - [Internet - Hotel vs Airbnb](#internet---hotel-vs-airbnb)
+  - [Parking - Hotel, Hostel & Airbnb](#parking---hotel-hostel--airbnb)
+  - [Hostel Tips](#hostel-tips)
+    - [Lockers](#lockers)
+    - [Towels](#towels)
+    - [Pillows](#pillows)
+    - [WorldPackers](#worldpackers)
 - [Taxis](#taxis)
 - [Wifi](#wifi)
   - [Wifi Hotels](#wifi-hotels)
@@ -346,7 +352,20 @@ Enter your nearest airport(s) and they will send you cheap deals to random desti
 
 Unfortunately they do not serve airports outside the US at time of writing.
 
-### Flights Gotchas
+### Flight Gotchas
+
+#### Luggage
+
+Be careful with your luggage weight. I got charged $30 in Asia for being 2kg overweight.
+
+It is usually much cheaper to just book a larger luggage weight in advance, such as 25kg instead of 20kg.
+
+If doing short trips, you might be better off not taking checked luggage at all as budget airlines like Whizz Air charge
+you a lot extra on top of the initial flight cost to have a checked luggage, and if only going somewhere for 2-3 days
+you really only need a change of clothes and minimal toiletries.
+
+The real problem is if you have lots of toiletries for skincare routines etc,
+as it can be hard to get it through the airport security and need that checked luggage.
 
 #### Transfer Flight Timings
 
@@ -406,9 +425,6 @@ or shorten your trip there and then go somewhere better value for longer.
 Save your money and spend it on good food in restaurants instead.
 Hostels have lockers for your valuables like laptops (you may want to take your own stronger padlock).**
 
-You can even use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
-which is a great way of seeing the world when young on budget.
-
 Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by location.
 
 Check both.
@@ -426,24 +442,7 @@ I have have private hosts cancel my accommodations the day before or even the sa
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
-### Hotel, Hostel & Airbnb - Parking
-
-If driving, make sure to double check parking at hotels or Airbnbs.
-
-If Expedia shows `Parking Available` include of `Parking Included`, that means there will be parking charges,
-which can be quite high.
-
-You have to scroll all the way to the bottom of the hotel listing to find out what the charges are in the small print.
-
-When driving, I often prefer booking places a bit away from the centers to get easier parking as many central
-accomodations, both hotels and airbnbs lack good parking.
-
-Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
-
-Hostels are usually more central and have no parking, so that's an extra challenge to find external parking locations if
-driving, such as my European Summer Road Trip Tours.
-
-### Hotel & Airbnb - Internet
+### Internet - Hotel vs Airbnb
 
 Hotel wifi is probably the worst wifi ever,
 often averaging around 10Mbit/s, sometimes 7Mbit/s, I've even recorded it as low at 2Mbit/s,
@@ -469,6 +468,61 @@ a trivial problem to fix if they had even an average IT engineer on hand or over
 I spent all week hassling the reception staff daily pleading to put one on the phone for me to tell them how to fix
 it without success).
 It still wasn't working when I left there.
+
+Hostels tend to be nearer the hotel end of the wifi internet spectrum, but not usually as bad as hotels in my experience
+as the younger crowd of hostels is much more internet dependent and they know this.
+
+### Parking - Hotel, Hostel & Airbnb
+
+If driving, make sure to double check parking at hotels or Airbnbs.
+
+If Expedia shows `Parking Available` include of `Parking Included`, that means there will be parking charges,
+which can be quite high.
+
+You have to scroll all the way to the bottom of the hotel listing to find out what the charges are in the small print.
+
+When driving, I often prefer booking places a bit away from the centers to get easier parking as many central
+accomodations, both hotels and airbnbs lack good parking.
+
+Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
+
+Hostels are usually more central and have no parking, so that's an extra challenge to find external parking locations if
+driving, such as my European Summer Road Trip Tours.
+
+### Hostel Tips
+
+#### Lockers
+
+Hostels usually have lockers for valuables (check thel listing before booking).
+
+Some have lockers with a key, others expect you to have a padlock (which they can usually rent to you).
+
+If using hostels repeatedly, get yourself a padlock with a key rather than combination lock,
+because aside from the fact someone can just spend a few hours to try all combinations, when you're putting stuff away
+late at night, it's must easier with a key than trying to do a combination in the dark with your phone light.
+
+#### Towels
+
+Some hostels provide towels, others rent them to you, and others don't provide them at all.
+
+If using hostels repeatedly,
+buy yourself a nice fluffy towel with a high thread count instead of renting them,
+it'll work out cheaper in the long run anyway.
+
+#### Pillows
+
+Pillows tend to not be great in hostels.
+
+So in Europe where I road trip, which gives me greater flexibility and luggage capacity, I take my 2 memory foam
+pillows.
+
+One could make do with taking one good pillow, but if flying even this might take up valuable space and weight in your
+checked luggage suitcase.
+
+#### WorldPackers
+
+You can use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
+which is a great way of seeing the world when young on budget.
 
 ## Taxis
 
