@@ -51,6 +51,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Taxes](#taxes)
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
+  - [Albania](#albania)
+    - [Tirana](#tirana)
+    - [Shkoder](#shkoder)
   - [Austria](#austria)
     - [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
     - [Vienna](#vienna)
@@ -164,6 +167,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Budva](#budva)
     - [Kotor](#kotor)
     - [Bar](#bar)
+    - [Ulcinj](#ulcinj)
   - [Morocco](#morocco)
     - [Taxis in Morocco](#taxis-in-morocco)
     - [Tangiers](#tangiers)
@@ -859,7 +863,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 40
+Number of Countries: 41
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -867,12 +871,104 @@ Number of Countries: 40
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 18
+- Countries in 2025: 19
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro
-- Unique Countries since Emigrating from the UK in 2024: 31
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania
+- Unique Countries since Emigrating from the UK in 2024: 32
 
 Below are specific tips for each country, especially my favourite restaurants.
+
+### Albania
+
+_"Cheap and good"_ was how several people I met on my travels described
+[Albania](https://maps.app.goo.gl/gEyUuDhZapAQ1b5dA). Get it before it changes.
+
+I'm surprised how many Mercedes there were in Albania.
+Many 20 years old, but many modern designs with customizations, AMGs etc.
+
+Some of the roads aren't great though.
+
+#### Tirana
+
+The capital [Tiranë](https://maps.app.goo.gl/NpB1ebWNjGFn6X2f9) is cheap, with hostels costing around £10 per night.
+
+The [Hostel Albania Villa](https://maps.app.goo.gl/W3QgHAJusgWU9fY99) only had a couple parking spaces,
+I was lucky to get one.
+
+[Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
+
+- [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
+  It was recommended by one of my fellow foodie travel buddies.
+  This place is apparently not a well kept secret at all as the place was packed out, and we had to queue for half an
+  hour from 7:30-8pm on a Tuesday night to get a table.
+  The waiting area became full of groups of people waiting for tables by the time we were seated.
+  You would be well advised to book a table, especially if it's the weekend.
+  The lamb cooked in a wooden stove was a good sized portion of meat,
+  although some of the lamb was a bit dry and hard to get through, and came with potato slices.
+  The veal chop was a decent size too.
+  The Japrak (rice in grape vine leaves)
+  looks quite different to the better known Greek style
+  as the leaves were a light rather than dark green colour and came with few very large bundles,
+  but tasted similarly good.
+  The venue also had live traditional music, even on Tuesday evening,
+  which was good but honestly too loud which makes it hard to talk,
+  and we were sitting at the end of the garden nowhere near the band.
+  They also charge 220 leks for live music per person on the bill too (just over €2)
+- [Stoa Meeting Place](https://maps.app.goo.gl/5CY84b3Coy1S7LFR6) - bar which had live outdoor music of a talented guy
+  on guitar singing classic pop-rock songs, part of a pub crawl
+- [Destil Creative Hub](https://maps.app.goo.gl/JHfvrEnNJVeqsc339) - recommended by a friend for food and service
+  during the day, but at night it turned into a bar with karaoke - also part of a pub crawl
+
+TODO:
+
+- [Bati Restaurant 2](https://maps.app.goo.gl/ptJUYagKnLK9EQCp9) - seafood at cheap prices
+- [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
+  and has a very high rating
+
+#### Shkoder
+
+[Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a town on the Shkodra Lake and hiking trails.
+
+In peak summer time it can be difficult to find accommodation as tourists descend on it for the lake and hiking trails.
+
+The town itself only takes an hour to walk around so you can do this in a day trip or 1 night stopover.
+
+- [Rruga Kolë Idromeno](https://maps.app.goo.gl/njNH3Wuo5VD4dKd47) - main tourist strip with restaurants
+- [Rruga G'juhadol](https://maps.app.goo.gl/GfScSxTKQNEbr85E9) - main tourist side road with bars and restaurants at the
+  north end
+- [90 Pods hostel & co-working](https://maps.app.goo.gl/yQzQWPwJ8He6tx9dA) - very minimalist, only use it if you're on
+  a budget. The "free parking" is street parking, which is in short supply and of course dangerous to leave a decent
+  car. The car park opposite was €2 per 8 hours.
+  On the plus side though, this hostel includes breakfast until 10:30am,
+  with a whole trays of eggs, bread, cream cheese,
+  piles of fresh natural looking imperfect tomatoes and cucumbers to make your own breakfast.
+  Unfortunately, there isn't enough cookware or utensils so you have to wait for others to finish and wash up.
+  It wouldn't hurt for them to buy a couple more pans and spatulas
+
+TODO:
+
+- [Ricordi Burger](https://maps.app.goo.gl/4RSL4PJrmrYjzzBk8) - highly rated burger restaurant with better prices than
+  the tourist trap OPA below
+- [Genti Breakfast&Restaurant](https://maps.app.goo.gl/Mn9SySXWjBsuJ5VLA)
+- [@Barbs Restaurant By Baku](https://maps.app.goo.gl/haK5UUQKipwZJaVQ7)
+- [Rozafa Sea Food](https://maps.app.goo.gl/q3nKLyQKbmVonC5v9) - popular late night restaurant off the main tourist
+  strip
+- [PURI](https://maps.app.goo.gl/fGs5xnrk2HzV7j3RA)
+- [RETRO Sushi Pub & Co.](https://maps.app.goo.gl/hzVhafUoQ9ndYFWT9)
+- [Fontana](https://maps.app.goo.gl/R6GtJLaXadt1Hipb6) - despite the mere 4.2 rating and being on the tourist strip, the
+  pizzas looked good
+- ["Traditional food" restaurant](https://maps.app.goo.gl/MHDymbZwYEQyrP1g8)
+
+Not Recommended:
+
+- [OPA Shkodër](https://maps.app.goo.gl/LGvFrPyQv2RMZiyB6) - overrated.
+  The smash burger looked quite squished, like the classic
+  meltdown scene the guy has for getting a flat burger that looks nothing like the juicy burger in the picture in the
+  classic movie [Falling Down](https://www.imdb.com/title/tt0106856/).
+  It tasted ok, but certainly not a gourmet burger by any stretch.
+  The fries were like those dry chokey crinkle cut oven fries you get from the supermarket.
+  I wish I had managed to eat at Ricordi Burger above but they closed due to "family issues" at 11pm that day.
+  If ever trying OPA again, next time I'd go with the 4x chicken skewers and fries, it doesn't cost much more
 
 ### Austria
 
@@ -2728,11 +2824,12 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
 on first impression there isn't too much to do there as it's not well centralized.
 
-You can do it in 2 days if you know this:
+However, after spending a few extra days, I was still discovering things.
+You could cram it into 2 days, but only if you know exactly what you're doing:
 
 [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) gives a false impression there isn't much around it,
 except for [Bokeska](https://maps.app.goo.gl/E1fu9DuAwUZPusg99) and
-[Njegoseva](https://maps.app.goo.gl/rKJHSioefKvLU6HJ7) roads, but if you enter
+[Njegoseva](https://maps.app.goo.gl/rKJHSioefKvLU6HJ7) roads with bars and restaurants, but if you enter
 [Njegosev Park](https://maps.app.goo.gl/xErfQQfGBnQCTJCv5) and
 cross the [Gazela](https://maps.app.goo.gl/A15VotP6dyxsM3Ev5) bridge to the
 [Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district, near there is
@@ -2790,13 +2887,29 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
   few restaurants, and outside is the City Kvart area full of restaurants
 - [City Kvart](https://maps.app.goo.gl/EoQGerQ7KSrTw1BA7) - area with lots of good restaurants opposite the Big Fashion
   Mall
-- [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
-- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) - great stop for refreshing drinks after a walk in the
-  Gorica park
+- [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8) - lovely family friendly park with wildlife placards
+  and play areas
+- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) - a good stop for refreshing drinks after a long walk in
+  Gorica park, popular among couples, with a nice outdoor terrace under a canopy of trees for shade, both alcoholic
+  beverages and fresh squeezed juices, with reasonable prices
+- [Voli](https://maps.app.goo.gl/XxGyfWdvDiYEy7ws9) - small centrally convenient supermarket to pick up daily groceries
+  and fresh juices, 400ml for €2.10, which is half the price and twice the size of neighbouring restaurants.
+  Was getting fresh squeezed juices every day from here, but alas it was closed on Sunday
+- [HDL](https://maps.app.goo.gl/ZFcW5oykr3RrUyxD6) - large cheap supermarket further out (use if driving)
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
+- [King's Park](https://maps.app.goo.gl/tcG8RRQaS2yr5a6K6)
+- [Karadjordjev Park](https://maps.app.goo.gl/DtoU21SRWTcGyjif9) - small but nice park with some bars to do pull ups
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
-TODO: add hostel's recommendation page here too
+The [Travel Break](https://maps.app.goo.gl/dcFAx3ukzYcAbPbW9) hostel is run by a good and experienced guy, Miro,
+and has a couple parking spaces for those doing road trips.
+The only downside is that there is a 10:30pm curfew against using the outside seating area to socialize,
+to not annoy the neighbours with noise of conversations, and that is the only social area available.
+The gate is also locked at 10pm, but you have a key for that.
+
+The [Travel Break Guide to Podgorica](https://drive.google.com/file/d/14AXWpoW47xmCzBQgdBlNr4N88Y90FJCX/view) has some
+more useful recommendations to make the most of your stay in Podgorica, including restaurants, shops, travel, trains,
+buses, taxis etc.
 
 TODO:
 
@@ -2863,7 +2976,8 @@ TODO:
 and cats lounging around waiting to get petted by the many tourists on the small fortress
 streets.
 
-You will need just over 1 hour to wander around the fortress - longer if you're having a coffee or dining.
+You will need just over 1 hour to wander around the fortress -
+longer if you're stopping for coffee, shopping, dining, or attending the cats museum.
 
 - [Kotor Old Town](https://maps.app.goo.gl/axtUTEmtTkYGy6to9) - in the fortress
 - [Mon Bistro Cafétéria](https://maps.app.goo.gl/Q1Ao3cANc49JrsEh8) - nice coffee hop with outdoor seating with fans.
@@ -2877,7 +2991,8 @@ You will need just over 1 hour to wander around the fortress - longer if you're 
 
 #### Bar
 
-A small seaside town, but the beach is not as good as Budva which is much more popular.
+[Bar](https://maps.app.goo.gl/6HxgncYoNrxoFNhz5) is a small seaside town, but the beach is not as good as Budva which is
+much more popular.
 
 - [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - decent menu but slightly touristy prices.
   The fresh squeezed orange juice was good and a decent size for €3 filling a 330ml glass, slightly more than Perbacco
@@ -2907,9 +3022,52 @@ TODO:
   [Skerovic Plaza](https://maps.app.goo.gl/kUdm4qTvP9ebFFww5) - beaches to the north of Bar Promenade
 - [Caffe Pizzeria Perbacco](https://maps.app.goo.gl/BBhhozLefqvv1t547) - slightly pricier than Karuba above, but
   similar menu and similarly highly rated
-- [Pizza Pub PULENA](https://maps.app.goo.gl/UEcARcZHZpio9kb78) - popular and highly rated, everybody sitting outside had pizzas - save it for a fat day
+- [Pizza Pub PULENA](https://maps.app.goo.gl/UEcARcZHZpio9kb78) - popular and highly rated, everybody sitting outside
+  had pizzas - save it for a fat day
 - [JALA street food](https://maps.app.goo.gl/A6SRt7uiKQrbBkMt9) - affordable burgers and tortillas
 - [Central Park Cafe Montenegro](https://maps.app.goo.gl/hY4KyXBtz7mp3GP76)
+
+#### Ulcinj
+
+[Ulcinj](https://maps.app.goo.gl/n9ohwBapsZjztAND7) is a popular seaside town, more concentrated and touristy than Bar.
+
+- [Old Town of Ulcinj](https://maps.app.goo.gl/xkRj3Mmpcd6h6RXB9) - has the highest rated restaurants, up on the cliff
+- [Small Beach](https://maps.app.goo.gl/ZdP8KBZY4wgMteKA9) - a strip of restaurants faces this beach for the sea alcove
+- [HEIST Bar](https://maps.app.goo.gl/NQEDCZ2vMvgugyMv7) - trendy small bar with seating facing the street to watch
+  passers by
+
+TODO:
+
+Several of the highest rated restaurants are in the Old Town at the top of the cliff:
+
+- [Restaurant Antigona](https://maps.app.goo.gl/VDj85uDjWpEvHL757)
+- [Terra Promessa Restaurant](https://maps.app.goo.gl/b18P5fxoxxEm2nMy8)
+- [Restaurant Taphana](https://maps.app.goo.gl/W1ZXZjCmEPxhdDNd7)
+- [Restaurant Dulcinea 1984](https://maps.app.goo.gl/hFANjRTM7MAVaw4p7)
+
+<!-- -->
+
+Other well rated restaurants to try:
+
+- [Ke Muji](https://maps.app.goo.gl/r221Ts2ENDgQWiBf9)
+- [City Cafe](https://maps.app.goo.gl/Uv9ro6fz8G3FkAmRA)
+- [Viva Caffé-Bistro](https://maps.app.goo.gl/mpV31D5x2yTt15X8A)
+- [La Tavola - Steakhouse & Pizzeria](https://maps.app.goo.gl/Uhr1Ss8WdJ5CwsVC8)
+- [Restaurant Bonita](https://maps.app.goo.gl/Jiq1SETudSdN1F2F8)
+- [Savana](https://maps.app.goo.gl/zkPfjRxxKQgim7T37)
+- [Restoran Prime](https://maps.app.goo.gl/84NMD3R7CKauoY216)
+- [Ćevabdžinica 9](https://maps.app.goo.gl/8jRdXgiHihbS5Hpi8)
+- [Restaurant Rozafa](https://maps.app.goo.gl/JpbCgDSEMTfaLGTf6)
+- [Coda Pastry & Brunch](https://maps.app.goo.gl/ctnNYJ38gGYXTG8T7)
+- [Pontee...restorant...pizzeria](https://maps.app.goo.gl/sjhSNr5CyVRKcLPg7)
+- [Papillon](https://maps.app.goo.gl/NewBdhLGYVq1NoDz8)
+- [Restorant Pizzeria Elita](https://maps.app.goo.gl/FJkufers8tCKLqsW8)
+- [Buongiorno Caffe](https://maps.app.goo.gl/eaZHQePR5sc6G1hz8)
+- [Restoran Pizzeria Palma](https://maps.app.goo.gl/cJ2UBfYfdZNjfyoGA)
+- [Restaurant Pizzeria Zani London](https://maps.app.goo.gl/KHrdMdCvyaY74Jhk9)
+- [L'Angolo](https://maps.app.goo.gl/dotxQm988FkWMzmn7)
+- [Cafe & Restaurant Liburna](https://maps.app.goo.gl/fZZqWAK7xQNPD7o68)
+- [Corona National Restaurant](https://maps.app.goo.gl/4fAaVHXpjG8s8Cdr8)
 
 ### Morocco
 
