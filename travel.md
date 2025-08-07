@@ -954,6 +954,8 @@ I was lucky to get one.
 
 [Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
 
+- [Blloku](https://maps.app.goo.gl/h6vq5NJFVdBU7Cip6) - upmarket district with night life and boutique shopping, lots of
+  Mercedes and Porches there
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
   [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
   [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - excellent upmarket seafood restaurant at surprisingly
@@ -962,7 +964,7 @@ I was lucky to get one.
   This is a good place to bring a date. All three have the same menu.
   These have got to be among the best restaurants in Tirana, and deserve the high rating.
   Bati 2 is just off the main road such that I passed it twice trying to find it, but a hidden gem,
-  busy, filled with locals even on a Wednesday night.
+  busy, filled with locals even on a Wednesday night - had to wait for a table.
   The food was very good quality, although most of the fish dishes are priced by weight,
   which means they are not for people on a budget, but thankfully the seafood linguine was very reasonably priced at
   600 leks (€6).
@@ -1009,7 +1011,6 @@ I was lucky to get one.
 
 TODO:
 
-- [Bati Restaurant 2](https://maps.app.goo.gl/ptJUYagKnLK9EQCp9) - seafood at cheap prices
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating
 
@@ -4585,18 +4586,29 @@ The best remaining parts of the UK (nearly all in the South of England):
   - [Reigate](https://maps.app.goo.gl/jVpfDNn47rKbUNUd7)
 - Somerset:
   - [Bath](https://maps.app.goo.gl/wEBK9mJPCH96j5P26) - ancient Roman bath town
-- Gloucestershire:
-  - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
 - Hampshire:
-  - [Winchester](https://maps.app.goo.gl/qcvnr5q2rkPygp4s8)
-- various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
+  - [Winchester](https://maps.app.goo.gl/qcvnr5q2rkPygp4s8) - the Great Hall of Winchester Castle houses the medieval
+    round table linked to King Arthur
 - Hertfordshire
   - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
-- York - probably the most gentrified part of the north due to the historic architecture, lots of nice coffee shops
-- [BlueWater](https://maps.app.goo.gl/zerwEJAEKUbvE8LT7) - the largest mall in the UK (you need a car to get there, but
-  there are extensive free car parks surrounding it)
-- [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6), Scotland - small historic city. The restaurants get booked out, so need
-  reservations.
+- West Midlands:
+  - [Royal Leamington Spa](https://maps.app.goo.gl/VQtgaZ2GaCVu95Cc8) - gentrified town with nice Regency architecture
+    and broad boulevards
+  - [Stratford-upon-Avon](https://maps.app.goo.gl/QR8Kccb5uEaSSyRe6) - Shakespear's Birthplace
+- North Yorkshire:
+  - [York](https://maps.app.goo.gl/WKAd4mEKRLyDVrtQ8) - probably the most gentrified part of the north due to the
+    historic architecture dating back to Roman times, lots of nice coffee shops
+- Gloucestershire:
+  - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
+- Kent:
+  - [Canterbury](https://maps.app.goo.gl/d1kENYard7Drq6jV8) - historic city dating back to Roman times with historic
+    architecture
+  - [BlueWater](https://maps.app.goo.gl/zerwEJAEKUbvE8LT7) - the largest mall in the UK (you need a car to get there, but
+    there are extensive free car parks surrounding it)
+- Scotland:
+  - [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6) - small historic city. The restaurants get booked out, so need
+    reservations
+- various AONB - Areas of Oustanding Natural Beauty - legally protected green areas
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
