@@ -59,9 +59,12 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Countries](#countries)
   - [Albania](#albania)
     - [Taxis in Albania](#taxis-in-albania)
+    - [Driving in Albania](#driving-in-albania)
     - [Tirana](#tirana)
     - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
+    - [Elbasan](#elbasan)
+    - [Pogradec](#pogradec)
     - [Shkoder](#shkoder)
   - [Austria](#austria)
     - [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
@@ -957,6 +960,13 @@ The usual big names of Uber and Bolt aren't present.
 - [VrapOn Taxi](https://vrapon.al/) - cheaper but not in English and didn't accept the SMS verification codes. Only
   payment option was cash
 
+#### Driving in Albania
+
+The worst roads I've seen in Europe with many places having unpaved roads
+and driving 15-20mph on stones and hoping your tyres don't get punctured.
+
+Fuel is also surprisingly expensive compared to nearby Bulgaria and Romania.
+
 #### Tirana
 
 The capital [Tiranë](https://maps.app.goo.gl/NpB1ebWNjGFn6X2f9) is cheap, with hostels costing around £10 per night.
@@ -1144,8 +1154,9 @@ my 2 wheel drive slipped it's wheels on some steep gradients.
 
 #### Durres
 
-Good seaside town -
-unfortunately it's split into two parts by the large docks and industrial cargo containers area in the middle.
+Good seaside town approximately 40-60 mins drive from Tirana, depending on traffic.
+
+Unfortunately it's split into two parts by the large docks and industrial cargo containers area in the middle.
 
 The area north of the docks is not that big, you can cover it in an hour.
 
@@ -1180,9 +1191,52 @@ TODO:
 
 - [Meison Bistro](https://maps.app.goo.gl/zgZM8fu8SjKhYjeL7)
 
+#### Elbasan
+
+[Elbasan](https://maps.app.goo.gl/ob7f42c3BgAYqkFB6) is a town with a small fort, useful for stopover between Tirana and
+Pogradec.
+
+- [Coffee House](https://maps.app.goo.gl/x6X58wAa5bPSHTV47) - has fresh squeezed orange juice, perfect for a stopover
+  refreshment with nice decor and both indoor and outdoor seating. Cash only
+- [Elbasan Castle](https://maps.app.goo.gl/iiMfbHCvSjsvhbTC9) - small local castle
+- [King Mosque, Elbasan](https://maps.app.goo.gl/k5NrGtQyCE3SB9Z99)
+- [Ethnographic Museum of Elbasan](https://maps.app.goo.gl/pPiKWTrC8oxs5V2h7)
+
+TODO:
+
+- [Pastiçeri Marsi](Pastiçeri Marsi) - dessert shop
+- [Art Coffee Bistro](https://maps.app.goo.gl/J4vy7A59QfLKiNyR9)
+- [Piceri Dibra](https://maps.app.goo.gl/dTThcq5g6Y86KvEX9) - cafe restaurant
+- [Presto Pasta Elbasan](https://maps.app.goo.gl/camCKopH2EYzTSDL7)
+
+#### Pogradec
+
+[Pogradec](https://maps.app.goo.gl/pwQsVo8vCE35UdKa6) is a lakeside town next to the impressive and scenic
+[Lake Ohrid](https://maps.app.goo.gl/zTx4seuagWd5CLF77) - amazing clear blue waters surrounded by mountain ranges,
+picture perfect, with a long beachside promenade and good restaurants.
+
+This is definitely one to revisit.
+
+- [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9) - the grilled Koran fish is a must try here as
+  it is local to the Ohrid Lake.
+  It comes without any sides, so accompany it with the green peppers cooked in a light cheese sauce and olive oil base,
+  which is a good size for a side.
+  The homemade bread is good,
+  but it's not as good as Jarna in Tirana as it does not come freshly hotly baked.
+  Couple it with tzatziki, but the tzatziki needs more cucumber and lot more garlic, it's a little bland by Greek
+  standards.
+  They have a single homemade dessert, which is like a small baklava with 2 orange slices on the side.
+  They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
+- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47) - north end of the beach with free parking
+
+- [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
+  mugged by an ATM again taking out cash and then being stuck with unused leks.
+  Next time
+
 #### Shkoder
 
-[Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a town on the Shkodra Lake and hiking trails.
+[Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a northern town on the Shkodra Lake, people also visit it for
+the hiking trails.
 
 In peak summer time it can be difficult to find accommodation as tourists descend on it for the lake and hiking trails.
 
