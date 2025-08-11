@@ -58,7 +58,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Albania](#albania)
+    - [Taxis in Albania](#taxis-in-albania)
     - [Tirana](#tirana)
+    - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
     - [Shkoder](#shkoder)
   - [Austria](#austria)
@@ -947,6 +949,14 @@ Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
 
+#### Taxis in Albania
+
+The usual big names of Uber and Bolt aren't present.
+
+- [Speed Taxi](https://speedtaxi.al/) - used this, more expensive than VrapOn Taxi. Only payment option was cash
+- [VrapOn Taxi](https://vrapon.al/) - cheaper but not in English and didn't accept the SMS verification codes. Only
+  payment option was cash
+
 #### Tirana
 
 The capital [Tiranë](https://maps.app.goo.gl/NpB1ebWNjGFn6X2f9) is cheap, with hostels costing around £10 per night.
@@ -1001,6 +1011,18 @@ I was lucky to get one.
   The only point I could possibly deduct for this place was
   that they had no juices, at all leaving me to buy mineral water in glass bottle.
   Wifi 92/34 Mbit/s
+- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant,
+  moderately priced, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1.
+  The homemade bread is amazing and comes hot with a dense texture.
+  At only €1 you _have_ to have it, maybe two, and an extra one to take away!
+  Pair it with the yoghurt starter which is similar to Greek tzatziki and goes really well together.
+  The Lakror is like a big 16” pizza, enough for 2-3 people.
+  The mains are meat heavy and priced by weight at 3000 leks per kg with minimum 400g order (1200 leks).
+  The veal ribs skewer was decent and tender but at 400g hard to get through (perhaps for a post workout recovery day!).
+  Next time I might try the "lamb or goat in a sack".
+  More of a place for meat lovers as all the mains are meat except for the lakror.
+  The Kasata Bllaca is an interesting neopolitan type multi-layered ice cream with some sweet fruit bits and sauce,
+  like the homemade bread, I would definitely get this again too
 - [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
   It was recommended by one of my fellow foodie travel buddies.
   This place is apparently not a well kept secret at all as the place was packed out, and we had to queue for half an
@@ -1063,8 +1085,6 @@ so this is a long TODO list of ones I still need to try.
 - [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
   and just round the corner from Bati 1.
   Steak restaurant prices, which is to say, not cheap
-- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant but
-  pricey, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1
 - [Fresh Garden Restaurant](https://maps.app.goo.gl/6ZZXLBVUGKzYeuRZ6)
 - [Salt Tirana](https://maps.app.goo.gl/tYeAZPreCs26nthKA)
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
@@ -1099,6 +1119,28 @@ so this is a long TODO list of ones I still need to try.
 - [Spaghetti Western](https://maps.app.goo.gl/cHEKLV7FP8Xt3g8fA)
 - [Pixel Gaming Arena](https://maps.app.goo.gl/o1EdrDcCguQSvjvZA) - interesting find for those of you who still play
   video games
+
+#### Lake Bovilla
+
+[Lake Bovilla](https://maps.app.goo.gl/bbsLa4sqKCJTi6zc8)
+has great scenary but just one several km long unpaved rock filled road with potholes everywhere is the only way up or
+down, and turns with no guardrails.
+
+This is the worst _"road"_ I've ever seen in Europe.
+
+I seriously thought I was going to puncture my tyres driving over such a large amount of jagged stones for such a long
+way.
+
+I'd hate to see the undercarriage of my car now, since a Mercedes AMG lowered body kit is exactly the wrong car
+for this type of terrain, and I wouldn't have taken it had I known.
+
+If I was to go here again, I'd rent a 4x4 SUV to take the wear and tear instead - 4x4 since on a couple of occasions
+my 2 wheel drive slipped it's wheels on some steep gradients.
+
+- [Bovilla restaurant](https://maps.app.goo.gl/JrF4wcaA39dfRdUq6) - the single restaurant at the top of mountain, has
+  fresh squeeze orange juice, with a great view,
+  but I didn't stay for dinner as I was scared of damaging my car tyres and getting stranded if trying
+  to drive back down in the dark, never mind the potential of going off one of the edges!
 
 #### Durres
 
