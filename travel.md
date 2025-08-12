@@ -33,7 +33,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
-- [Foreign Cash Withdrawals](#foreign-cash-withdrawals)
+- [ATMs and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals)
 - [Restaurants & Dining Out](#restaurants--dining-out)
 - [Translation](#translation)
 - [Seasons - Timing Matters](#seasons---timing-matters)
@@ -58,6 +58,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Albania](#albania)
+    - [ATMs in Albania](#atms-in-albania)
     - [Taxis in Albania](#taxis-in-albania)
     - [Driving in Albania](#driving-in-albania)
     - [Tirana](#tirana)
@@ -178,6 +179,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Moldova](#moldova)
     - [Chisinau](#chisinau)
   - [Montenegro](#montenegro)
+    - [Driving in Montenegro](#driving-in-montenegro)
     - [Podgorica](#podgorica)
     - [Budva](#budva)
     - [Kotor](#kotor)
@@ -188,6 +190,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Tangiers](#tangiers)
   - [Netherlands](#netherlands)
     - [Amsterdam](#amsterdam)
+  - [North Macedonia](#north-macedonia)
+    - [Driving in North Macedonia](#driving-in-north-macedonia)
+    - [Skopje](#skopje)
+    - [Ohrid](#ohrid)
   - [Norway](#norway)
     - [Oslo](#oslo)
   - [Poland](#poland)
@@ -242,7 +248,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Taipei Hotels](#taipei-hotels)
       - [Taipei Restaurants & Attractions](#taipei-restaurants--attractions)
   - [Thailand](#thailand)
-    - [Cash Needed in Thailand](#cash-needed-in-thailand)
+    - [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
     - [Mobile Internet in Thailand](#mobile-internet-in-thailand)
     - [Taxis in Thailand](#taxis-in-thailand)
     - [Food in Thailand](#food-in-thailand)
@@ -543,6 +549,14 @@ which are listed below, underneath each country.
 
 Compare the different apps to get the best price, it only takes 2 minutes.
 
+Taxis in some countries only accept cash,
+even when ordering them using apps, such as in Albania,
+or the airport taxis in Moldova and Malaysia.
+
+Taxis in Thailand and Malaysia stopped at ATMs to get me to withdraw cash for them.
+
+See the [ATM and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals) section below.
+
 ## Wifi
 
 ### Wifi Hotels
@@ -564,7 +578,7 @@ _"X/Y Mbit wifi"_ shorthand means X Mbit/s download and Y Mbit/s upload eg.
 
 ## Mobile Internet Access
 
-Always ensure you have mobile internet before you leave the airport.
+Always ensure you have mobile internet before you leave the airport or cross the border by car / coach.
 
 Use the airport wifi to set up one of your e-sims using the lists below, or sims at the airports.
 
@@ -662,15 +676,19 @@ Because banks and other legacy providers will force you to call them, you can us
 - [Skype](https://www.skype.com/en/international-calls/) - £5 for 400 minutes, expensive for national numbers like most
   banks and businesses use
 
-## Foreign Cash Withdrawals
+## ATMs and Foreign Cash Withdrawals
 
-Do not use your Wise card to withdraw cash from ATM machines overseas.
+ATMs in some countries charge a flat fee of between £5-7 for any withdrawal amount -
+Thailand, Cambodia, Croatia and Albania spring to mind.
 
-They charged me almost \$7 as an 'ATM withdrawal fee'... on top of the \$5 the Cambodian ATM charged me.
+This means it's better to estimate how much you need up front and make fewer larger withdrawals.
+
+Do not use your Wise card to withdraw cash from ATM machines overseas - they charged me almost \$7 as an
+_'ATM withdrawal fee'_... on top of the \$5 the Cambodian ATM charged me.
 
 My bank by comparison charged me only the exchange rate, which was very close to accurate, I checked.
 
-Obviously don't withdraw cash using credit cards, they'll probably be the worst and most unscrupulous in charges.
+Obviously don't withdraw cash using credit cards, they'll likely have the worst / highest unscrupulous charges.
 
 ## Restaurants & Dining Out
 
@@ -796,6 +814,15 @@ This is a local knowledge that will get you done and your license revoked if you
 
 Car insurance often includes 30-90 days cover in Europe, check each provider for details.
 
+**Beware: UK car insurance covers only EU countries and one or two others like Switzerland and Serbia, but NOT**
+**Montenegro, Albania or North Macedonia.**
+
+Not coincidentally these are 3 out of the 4 non-EU countries left in the Balkans
+and for good reason as they are clearly the least developed countries.
+
+**You will be forced by the police to buy expensive insurance at the border in those countries if you cannot prove you**
+**have a specific insurance covering their country.**
+
 Top car comparison sites:
 
 - [MoneySupermarket.com](https://www.moneysupermarket.com)
@@ -830,6 +857,7 @@ Police may refuse you entry or blackmail you out of money if you don't have all 
 - UK driver's license
 - International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
 - Insurance certificate
+  - check it covers the specific country, see note above that non-EU countries are often not covered
 - Vehicle Registration V5C paper proof of ownership
   - [Serbian](#serbia) police refused to accept digital proof of ownership via insurance certificate
   - they insisted on physical original paper copy
@@ -927,7 +955,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 42
+Number of Countries: 43
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -935,10 +963,10 @@ Number of Countries: 42
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 19
+- Countries in 2025: 20
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania
-- Unique Countries since Emigrating from the UK in 2024: 32
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania, North Macedonia
+- Unique Countries since Emigrating from the UK in 2024: 33
 
 Below are specific tips for each country, especially my favourite restaurants.
 
@@ -952,18 +980,39 @@ Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
 
+#### ATMs in Albania
+
+ATMs in Albania usually charge you 600-700 leks (€6-€7) for a cash withdrawal,
+on top of trying to get you to accept their ridiculous conversion fees
+(always select Without Conversion as your bank may change you 3% but not some outrageous amount like they do).
+
+Raiffeisen Bank ATMs were the worst I saw, trying to charge 800 leks (€8) for a cash withdrawal. Avoid that bank.
+
+This means it's better to estimate how much you need for your stay
+and withdraw it once instead of incurring the withdrawal charge again and again.
+
+Most places take credit and debit cards, but not under a certain amount such as 500 leks (€5),
+and some places will only accept cash so you will likely need some cash.
+
 #### Taxis in Albania
 
 The usual big names of Uber and Bolt aren't present.
 
 - [Speed Taxi](https://speedtaxi.al/) - used this, more expensive than VrapOn Taxi. Only payment option was cash
-- [VrapOn Taxi](https://vrapon.al/) - cheaper but not in English and didn't accept the SMS verification codes. Only
-  payment option was cash
+- [VrapOn Taxi](https://vrapon.al/) -
+  cheaper but not in English and didn't accept the SMS verification codes so I couldn't get it working in time.
+  Only payment option was cash
 
 #### Driving in Albania
 
-The worst roads I've seen in Europe with many places having unpaved roads
-and driving 15-20mph on stones and hoping your tyres don't get punctured.
+**Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
+**NOT Albania**.
+
+**You will likely be forced to buy specific car insurance for Albania at a high price if you cannot prove you have an**
+**insurance specifically covering Albania.**
+
+Albania has _the_ worst roads I've seen in Europe with many places having unpaved roadswith everybody forced to drive
+15-20mph over jagged stones and potholes and hoping your tyres don't get punctured.
 
 Fuel is also surprisingly expensive compared to nearby Bulgaria and Romania.
 
@@ -1217,20 +1266,24 @@ picture perfect, with a long beachside promenade and good restaurants.
 
 This is definitely one to revisit.
 
+- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47)
+- Parking - the north end of the beach above has an area of free parking, but beware, don't park
+  in the bays facing the street - people parked on the street in front of those bays and completely blocked me in -
+  I couldn't pull out and had to wait for them to return and move their car before I could leave!
 - [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9) - the grilled Koran fish is a must try here as
   it is local to the Ohrid Lake.
   It comes without any sides, so accompany it with the green peppers cooked in a light cheese sauce and olive oil base,
   which is a good size for a side.
-  The homemade bread is good,
-  but it's not as good as Jarna in Tirana as it does not come freshly hotly baked.
-  Couple it with tzatziki, but the tzatziki needs more cucumber and lot more garlic, it's a little bland by Greek
-  standards.
-  They have a single homemade dessert, which is like a small baklava with 2 orange slices on the side.
-  They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
-- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47) - north end of the beach with free parking
-
-- [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
-  mugged by an ATM again taking out cash and then being stuck with unused leks.
+  The homemade bread is good, but unfortunately I had it the night after Jarna in Tirana, which is a different level.
+  This one is not as good as Jarna's as it doesn't come freshly hotly baked.
+  I coupled it with tzatziki again, but the tzatziki was mediocre - needs more cucumber and *lot* more garlic, it's
+  bland by Greek standards.
+  They have a single homemade dessert,
+  which is like a small baklava with 2 orange slices on the side,
+  which was nice but too small to be satisfying as it was half the size of the one at Nalu in Tirana.
+  They don't have freshly squeezed orange juice though, but neither do the neighbouring restaurants
+- [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated fish restaurant but they only accept cash
+  and I didn't want to get mugged by an Albanian ATM again taking out cash, and then being stuck with unused leks.
   Next time
 
 #### Shkoder
@@ -1745,6 +1798,8 @@ Croatia is expensive and service is often not good.
 There are a lot of better countries to visit.
 
 Some restaurants even refuse to split group bills, and I didn't find anywhere that serves breakfast past 12-1pm.
+
+It's also too hot in Summer, if you're going to do it, do it in Spring or Autumn instead.
 
 #### Taxis in Croatia
 
@@ -3148,6 +3203,24 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 
 ### Montenegro
 
+#### Driving in Montenegro
+
+**Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
+**NOT Montenegro**.
+
+**You will likely be forced to buy specific car insurance for Montenegro at a high price if you cannot prove you have**
+**an insurance specifically covering Montenegro.**
+
+The border police also checked UK MOT is valid
+and may refuse to let you drive if it has lapse while you're road tripping overseas.
+
+The Montenegro Riviera drive through the mountains is an impressive view, similar to Croatia's Dubrovnik Riviera,
+winding mountain roads that look out of a James Bond movie, but it's not a drive for inexperienced drivers, as there are
+sections without barriers where you could go off a cliff and die.
+
+Also, due to the single lane most of the way, you can get stuck behind a slow lorry or coach,
+and overtaking is very difficult and dangerous here.
+
 #### Podgorica
 
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
@@ -3470,7 +3543,54 @@ Beach city in northern Morocco.
 
 #### Amsterdam
 
-Was only here briefly, must re-visit to create notes.
+Was only here briefly for work and cannot remember the fancy restaurant work took me to.
+
+Must re-visit for longer to fill out this section.
+
+Obviously, everybody knows about [De Wallen](https://maps.app.goo.gl/CeM2ddZPFvj9zV7d7) :wink:.
+
+### North Macedonia
+
+#### Driving in North Macedonia
+
+It took **3 hours** to get through the Albanian - Macedonian border.
+
+**Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
+**NOT North Macedonia**.
+
+**Border police said every UK insurance is not valid there, only in EU -
+so they specifically challenge every British car and when I checked the small print they were
+right (probably similar for all EU cars, which is why the border queue takes so long).**
+
+**They forced me to buy insurance specifically for North Macedonia from a 24 hour
+office on site - €50 for 15 days - almost twice the price of my regular insurance - a relatively high insurance premium
+for my ignorance and being caught out by small print!**
+
+Street Lighting -
+most of the country's roads outside the cities are not lit,
+even the motorways and main trunk roads across the country so you'll need to drive with your beam on.
+
+Single Lane - most of the roads between Ohrid in the south and Skopje in the north were single lane, so
+I was frequently getting stuck behind slow lorries or coaches, and overtaking is very difficult and dangerous here.
+
+There is no e-Vignettes online toll like in several other European countries,
+but there are toll booths on motorways that accept cards - it's roughly 50p per toll -
+I got hit with 3 or 4 of them between Ohrid and Skopje,
+but they're more of a stopping inconvenience than a substantial cost compared to Poland where you can pay an outrageous
+€10 for a single toll crossing or some other European countries where you can pay €10-20 for an online pass.
+
+#### Skopje
+
+[Skopje](https://maps.app.goo.gl/HsirTdkXtsbqHKRg7) (pro-nounced Sko-pyeh) is the capital of North Macedona, in the
+north of the country near the Serbian and Kosovan borders.
+
+ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Macedonia!
+
+#### Ohrid
+
+TODO: after being stuck at the border for 3 hours I ran out of time to stop here.
+
+Must revisit this for Lake Ohrid as the view of it was amazing in Pogradec, Albania.
 
 ### Norway
 
@@ -3904,7 +4024,7 @@ I've asked the locals about this and they said there are a couple non-smoking ve
 
 #### Driving in Serbia
 
-Expect a 3 hour queues at the Serbian border.
+It took over **3 hours** to get through the Hungarian - Serbian border.
 
 I asked a guy in the queue of cars in front of me and he said 3-4 hours was common.
 
@@ -4367,12 +4487,14 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
-#### Cash Needed in Thailand
+#### ATMs in Thailand - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
 
 The ATM machines are thieves and will charge you £5 to withdraw almost any amount of cash,
 so you may as well withdraw a larger sum so you get conned by them less often.
+
+If they offer a conversion fee, decline, your bank may change you 3% but ATMs conversion fees are way higher.
 
 #### Mobile Internet in Thailand
 
