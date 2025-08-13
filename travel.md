@@ -1,8 +1,16 @@
 # Travel
 
+Short links to this page:
+
+[tinyurl.com/hari-travels](https://tinyurl.com/hari-travels)
+
+[bit.ly/hari-travels](https://bit.ly/hari-travels)
+
 I've worked on 4 continents.
 
-Whether Consulting internationally or visiting for a holiday, here are some useful tips from my travels.
+Whether Consulting internationally or visiting for a holiday, here are some useful tips from my extensive travels.
+
+Updated regularly as I travel the world all year.
 
 <!-- INDEX_START -->
 
@@ -21,6 +29,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Hostel Tips](#hostel-tips)
     - [Lockers](#lockers)
     - [Towels](#towels)
+    - [Shower Gel](#shower-gel)
     - [Pillows](#pillows)
     - [WorldPackers](#worldpackers)
 - [Taxis](#taxis)
@@ -264,6 +273,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
+      - [Taxis in Istanbul](#taxis-in-istanbul)
+      - [Restaurants in Istanbul](#restaurants-in-istanbul)
   - [UAE](#uae)
     - [Driving in UAE](#driving-in-uae)
     - [Abu Dhabi](#abu-dhabi)
@@ -301,6 +312,21 @@ Always compare 2-3 sites as you might think one will always get you a better dea
 but once in a while it'll screw you with a much higher price than the others.
 
 [Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
+
+[HostelWorld.com](https://www.hostelworld.com/) - best for solo hostel travellers - sometimes more expensive than Agoda
+for the same places, but sometimes has hostels that other sites don't have at all.
+People are often willing to pay a slight premium to book through HostelWorld just to get access to it's unique city chat
+feature to meet other solo travellers to socialize.
+The chat is a bit sluggish and buggy, so I use this chat to collect the IGs and then start a better Insta group chat.
+HostelWorld usually takes a deposit (which doesn't go to the hostel and is non-refundable if you cancel), and then you
+pay the hostel when you arrive.
+This means you are slightly better off booking a shorter time on the app to pay less deposit but still get access to
+the city chat and then extending your stay locally with the hostel - as long as the hostel isn't likely to run out of
+capacity!
+There is a limitation in the app / website that you cannot change your booked duration once purchased,
+and beware that if you cancel the booking (eg. because you want to shorten the duration for example at the request of
+your hostel to free up the bed on their system) you will lose both your deposit and access to the chat, and the customer
+service support cannot undo the cancellation for you either.
 
 [Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia.
   lI prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
@@ -524,6 +550,10 @@ Some hostels provide towels, others rent them to you, and others don't provide t
 If using hostels repeatedly,
 buy yourself a nice fluffy towel with a high thread count instead of renting them,
 it'll work out cheaper in the long run anyway.
+
+#### Shower Gel
+
+At most hostels you will need to take your own shower gel.
 
 #### Pillows
 
@@ -4703,9 +4733,9 @@ Expensive restaurants and there are only so many times you can eat kebab / mixed
 
 #### Antalya Airport
 
-I had a stopover and missed my connecting flight due to a 2 hour delay by the first flight.
+I had a stop over and missed my connecting flight due to a 2 hour delay by the first flight.
 
-Thw wifi in Antalya is even worse than in Istanbul. You need to swipe your passport at a kiosk to get a code for a
+The wifi in Antalya is even worse than in Istanbul. You need to swipe your passport at a kiosk to get a code for a
 crappy minimal wifi, medium signal, but crippled bandwidth that web pages don't load. It was unusable on my laptop and
 I had to rely on my Expedia app on my phone to eventually load enough for me to book a flight out of there.
 
@@ -4720,7 +4750,36 @@ Istanbul is one big tourist trap.
 
 I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 
-Restaurants will often cost £30 per head without alcohol for food that would be cheaper even in the UK.
+Everybody seems to be out to overcharge you or cheat you as you will see in both the taxis and restaurants sections
+below:
+
+##### Taxis in Istanbul
+
+Taxi drivers are terrible for trying to scam tourists in Istanbul.
+
+One taxi driver quoted me _"20 Euros"_ (not even their local currency) to go literally 1 mile down the road!
+
+Even an official black taxi in London wouldn't charge you that much.
+
+I asked 2 taxi drivers
+to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
+
+I tried the [BiTaksi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
+even with tips pre-added.
+I ended up walking the last mile to my accommodation.
+
+I managed to get a taxi to the airport using [BiTaksi](https://www.bitaksi.com/en) when leaving
+but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person at
+the end of the ride, and just after I tapped my card to pay, the app then also charged me (probably because he ended the
+journey on his app only after this), thereby not only overcharging me but also cheating me by charging me twice.
+I reached out to BiTaksi several times via in app chats and emails to request a refund for at least one of the double
+charges but they never responded.
+
+This pretty much sums up the experience in Turkey.
+
+##### Restaurants in Istanbul
+
+Restaurants will often cost £30 per head without alcohol for mediocre food that would be cheaper even in the UK.
 
 £6 for an orange juice when it was £1.50-£2 in Morocco the week earlier...
 £2-4 for a water. Meanwhile in the supermarkets a fresh squeezed juice in a bottle is £1.50 or a 500ml water bottle for 10-20p.
@@ -4732,37 +4791,39 @@ It hardly even matters which restaurant you go to, it's like they're all roughly
 Google Maps reviews can't be trusted - almost everywhere seems to have 4.7, 4.8, 4.9, or 5.0 ratings for places that
 would be 4.1 - 4.3 in the rest of the world.
 
-You follow to a "recommended" place and find it even more overpriced than the others.
+You follow to a _"recommended"_ place and find it even more overpriced than the others.
 Either reviews are not factoring in price or there is a lot of fake review inflation in Istanbul.
 
 The airport is, expectedly even worse.
 £17 for a bolognese that would be £5-8 anywhere else, £20 for a burger etc.
 The burgers look lowed grade compared to Gourmet Burger Kitchen back home.
 
-Taxis are bad too.
-
-One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mile down the road!
-
-I asked 2 taxi drivers
-to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
-
-I tried the [BiTaxi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
-even with tips pre-added.
-I ended up walking the last mile to my accommodation.
-
-I managed to get a taxi to the airport when leaving
-but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person,
-both overcharging me and cheating me by charging me twice.
-I reached out to bitaksi but they never responded.
-
-This pretty much sums up the experience in Turkey.
-
-I don't really recommend many places in Istanbul as I was not impressed, but here are a couple:
+I can't honestly recommend many places in Istanbul as I was not impressed, but here are a couple:
 
 - [Hafiz Mustafa 1864](https://www.google.com/maps/search/Hafiz+Mustafa/@41.0088626,28.9685038,15.55z?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D) -
-  famous dessert shop chain, highly rated for good reason
+  famous dessert shop chain, highly rated for good reason.
+  A few of them are 24 hours with people enjoying socializing there even well past midnight
 - [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
   a traditional hot sand - a little pricey but I loved it
+
+<!-- -->
+
+- [Hagia Sophia Grand Mosque](https://maps.app.goo.gl/RzSr4B9S1WodNvTP6)
+- [Topkapi Palace Museum](https://maps.app.goo.gl/mmV1dPjXYsAFZSGBA)
+- [Galata Tower](https://maps.app.goo.gl/w3bqNYg6CRigXsJR8)
+
+Wasn't impressed:
+
+- [Bistro corner cafe restaurant](https://maps.app.goo.gl/NGeUjbeJJe7gqSEYA)
+- [Paradise seafood kebap restaurant](https://maps.app.goo.gl/9sV4cVQp55vjbyEZ6)
+- [Cozy Garden Fish And Meat Restaurant](Cozy Garden Fish And Meat Restaurant)
+
+TODO:
+
+- [La Terrasse Karaköy](https://maps.app.goo.gl/x3ZuuXwzGfrdCcEX7)
+- [Hidden Garden](https://maps.app.goo.gl/UTaW8RRBgru5T7Ev5)
+- [Food Palace 1981 Anatolian Restaurant](https://maps.app.goo.gl/mYGeoaaJkDcW13eVA)
+- [The First Ottoman Lounge](https://maps.app.goo.gl/F79T1ZVfapehFsqf7)
 
 ### UAE
 

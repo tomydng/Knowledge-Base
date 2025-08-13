@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [PaaS - Platform as a Service](#paas---platform-as-a-service)
+- [URL Shorteners](#url-shorteners)
 - [SSG - Static Site Generators](#ssg---static-site-generators)
   - [Jekyll](#jekyll)
   - [Hugo](#hugo)
@@ -31,6 +32,11 @@
 ## PaaS - Platform as a Service
 
 See the [PaaS](paas.md) doc.
+
+## URL Shorteners
+
+- [TinyURL](https://tinyurl.com)
+- [Bit.ly](https://bit.ly)
 
 ## SSG - Static Site Generators
 
