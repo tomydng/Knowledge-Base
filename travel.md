@@ -269,14 +269,14 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Abu Dhabi](#abu-dhabi)
       - [Restaurants in Abu Dhabi](#restaurants-in-abu-dhabi)
     - [Dubai](#dubai)
-    - [Metro in Dubai](#metro-in-dubai)
-    - [Taxis in Dubai](#taxis-in-dubai)
-    - [Parking in Dubai](#parking-in-dubai)
-    - [Weather in Dubai](#weather-in-dubai)
-    - [Attractions in Dubai](#attractions-in-dubai)
-    - [Restaurants in Dubai](#restaurants-in-dubai)
-    - [Visas for Dubai](#visas-for-dubai)
-    - [Banking in Dubai](#banking-in-dubai)
+      - [Metro in Dubai](#metro-in-dubai)
+      - [Taxis in Dubai](#taxis-in-dubai)
+      - [Parking in Dubai](#parking-in-dubai)
+      - [Weather in Dubai](#weather-in-dubai)
+      - [Attractions in Dubai](#attractions-in-dubai)
+      - [Restaurants in Dubai](#restaurants-in-dubai)
+      - [Visas for Dubai](#visas-for-dubai)
+      - [Banking in Dubai](#banking-in-dubai)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
     - [Best Areas in London](#best-areas-in-london)
@@ -3586,6 +3586,29 @@ north of the country near the Serbian and Kosovan borders.
 
 ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Macedonia!
 
+- [Healthy Junk Food corner](https://maps.app.goo.gl/74q7p2rTzzRxg7ow7) - probably the best thing you'll eat in Skopje -
+  healthy homemade naan wraps with succulent chicken and home made seasoning mixes, and cheap at only 215 mkd (€3.50)!
+  They don't sell drinks at this time so bring your own from the neighbouring grocery store.
+  This is a very unique proposition with a lovely unique couple who have brought the magic of both taste and healthiness
+  to their food - even the fries are air fried for healthiness
+- [Urban Skopje](https://maps.app.goo.gl/KVa87SqEiNFxFMBc7) - coffee / juice truck stall in
+  [City Park](https://maps.app.goo.gl/gYz6SMPGeKsmG93M8) - 150 mkd (€2.50) for a small freshly squeeze juice with ice,
+  it's lower rating is probably because it's not as good value for money as the food at Healthy Junk Food corner,
+  but is welcome relief on a hot day
+- [Van Gogh Bar](https://maps.app.goo.gl/wvwveR3K8pozkjD49) - refused to split the bill - bring cash
+- [Ла-Сди (La Sdi)](https://maps.app.goo.gl/iZgQ1aW4fgw22jht5) - 24 hour grocery store - when you fany a late night
+  ice cream or need some bottled water, or eggs for the morning
+- [Macedonia Square](https://maps.app.goo.gl/3dx6RHXayFjP8aNp7) - tourist area
+- [Old Bazaar - Skopje Old Town](https://maps.app.goo.gl/mCA6gtT7C1VmmEbN8) - must visit bazaar in the Skopje Fortress,
+  with markets, shops and cafes
+
+Not Recommended:
+
+- [Beer Garden](https://maps.app.goo.gl/dsdzwQPsyRYf8gdn7) - ok for drinks but their chicken souvlaki skewers were raw
+  in the middle in all three of our orders - do not eat here unless you want to get food poisoning, we had to leave our
+  food and they still charged us for it.
+  This is what happens when you let the group convince you to just eat here because they're hungry and can't wait
+
 #### Ohrid
 
 TODO: after being stuck at the border for 3 hours I ran out of time to stop here.
@@ -4734,6 +4757,13 @@ I reached out to bitaksi but they never responded.
 
 This pretty much sums up the experience in Turkey.
 
+I don't really recommend many places in Istanbul as I was not impressed, but here are a couple:
+
+- [Hafiz Mustafa 1864](https://www.google.com/maps/search/Hafiz+Mustafa/@41.0088626,28.9685038,15.55z?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D) -
+  famous dessert shop chain, highly rated for good reason
+- [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
+  a traditional hot sand - a little pricey but I loved it
+
 ### UAE
 
 The United Arab Emirates is one of the most civilized and safe societies I have ever seen.
@@ -4778,7 +4808,7 @@ People drive with air conditioning and dive into malls, offices and restaurants 
 
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
 
-#### Metro in Dubai
+##### Metro in Dubai
 
 Good for the areas it covers.
 
@@ -4788,7 +4818,7 @@ This works out to a mere 65p or £1.10!!
 
 Buy a Nol card immediately for 25 dirhams which has 19 dirhams of credit already pre-loaded on it.
 
-#### Taxis in Dubai
+##### Taxis in Dubai
 
 You will need a car or taxi to really get around.
 
@@ -4796,7 +4826,7 @@ You will need a car or taxi to really get around.
 
 It does everything from Uber-style taxis, to food delivery, to rental bicycles.
 
-#### Parking in Dubai
+##### Parking in Dubai
 
 Parking is easy in most of the malls but really difficult near the Dubai World Trade Center.
 
@@ -4806,13 +4836,13 @@ Occasionally it is blocked off for DWTC events, but there is another smaller ope
 [here](https://maps.app.goo.gl/jMzPUWreB5ypQ1gw9).
 I avoid using the Al Mustaqbal car park as it is expensive at 10 AED per hour.
 
-#### Weather in Dubai
+##### Weather in Dubai
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
 Copying them was how a lot of the European countries on this list were covered!
 
-#### Attractions in Dubai
+##### Attractions in Dubai
 
 Dubai has a good mix of beaches and malls.
 It is built in the US style where a mall is not just a shopping venue but a destination with lots of restaurants & cafes
@@ -4842,7 +4872,7 @@ as well as activities.
 - [Global Village](https://www.tripadvisor.com/Attraction_Review-g295424-d2038312-Reviews-Global_Village-Dubai_Emirate_of_Dubai.html) -
   only open October to April
 
-#### Restaurants in Dubai
+##### Restaurants in Dubai
 
 Often restaurants outside of the malls are better in terms of prices.
 
@@ -4876,7 +4906,7 @@ Often restaurants outside of the malls are better in terms of prices.
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
   bustling at midnight, open until 2am
 
-#### Visas for Dubai
+##### Visas for Dubai
 
 You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
 
@@ -4886,7 +4916,7 @@ and will get a shock as your car rental company refuses to release the car to yo
 You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
 local bank or cash payment.
 
-#### Banking in Dubai
+##### Banking in Dubai
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
   - but I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
