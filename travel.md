@@ -4219,10 +4219,28 @@ Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 
 Southern city on the way from Belgrade to Sofia, Bulgaria.
 
+- [Distrikt cafe&bar](https://maps.app.goo.gl/DvvaWn7zjj2PTtp66) - nice decor, good selection of drinks, fresh juices,
+  breakfasts, oatmeal special, burgers, pizza, pasta, mains, desserts.
+  The chocolate cherry protein oatmeal was decent, but very calorie rich so I didn't finish it.
+  The "lime time" juice mix containing lime, orange, apple, pineapple juice was good and freshly made
 - [Kod Rajka](https://maps.app.goo.gl/U3grzPEDWyktKjNW8) - good serbian restaurant. The chicken in mushroom sauce is big
   and all chicken. The sopska salad (tomato, cucumber and onion, covered in shredded feta, is very good). The orange
   juice was sold out, and the homemade lemonade was just squeezed lemon, probably worth skipping that next time.
   23/10 Mbit/s wifi
+- [Forum](https://maps.app.goo.gl/YAaV3tKqAK9MeLRQ8) - main shopping centre in Nis
+- [Javna garaža "Ambasador](https://maps.app.goo.gl/7kUXSt3Fqkj5WGH87) - the parking I use when doing stopovers in Nis
+  as it's quite central and underground sheltered
+
+TODO:
+
+- [Kafeterija Niš](https://maps.app.goo.gl/p5xFLZhh2Fwtr33o9) - well rated coffee shop
+- [Gostionica “Pobeda”](https://maps.app.goo.gl/KDDu5Ty63ry92jk49) - highly rated restaurant
+- [La Vie](https://maps.app.goo.gl/esSJDbSm7fLBmp3P6) - highly rated restaurant
+- [Kafana Ponoc](https://maps.app.goo.gl/f2PKFjQURdb7qhBf6) - highly rated restaurant
+- [Stambolijski](https://maps.app.goo.gl/TkrYQaSLM6RfJBqt8) - highly rated Serbian restaurant
+- [Pleasure](https://maps.app.goo.gl/7KxVNqzBCkuA5r3P7)
+- [Soul Food by Gaga](https://maps.app.goo.gl/f8mMiVqZ7ytEEB2j7)
+- [Kafana Meze](https://maps.app.goo.gl/e8nZyMgV3AoVrDWaA)
 
 ### Singapore
 
