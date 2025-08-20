@@ -4220,6 +4220,30 @@ The lower end is typically about half that.
     across the road which is plenty loud enough while sitting outside
   - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
     milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
+- [Franš](https://maps.app.goo.gl/2Nw5ZndZ5h1Z8JGS8) - popular upmarket restaurant - if you want to know where rich
+  people come to eat, it’s here.
+  It has nice outdoor sheltered seating, good for summer.
+  The food is reasonably decent, but not the best, and it's quite expensive.
+  The cars parked in front were alternating Mercedes and Range Rovers, maybe the odd custom matt BMW SUV.
+  I was surprised how busy it was on a Tuesday afternoon, and many women put on dresses to dine here, even on a Tuesday
+  afternoon. These seem like the landlord class families who don't work.
+  The smoked klobasa (sausages) were good,
+  and if in doubt you can order the Homemade Frans Platter which is 6 different meats with a side of french fries
+  (I swapped mine for roasted sliced potatoes).
+  The perch fillets of fish is recommended from the seafood section.
+  The sour cherry pie and ice cream in melon desserts were nothing special and I would skip them next time.
+  18/15 Mbit/s wifi
+- [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, juices, smoothies,
+  protein shakes, eggs breakfasts (until 2pm), protein oatmeal, burgers, pasta, steaks, salads, these guys have it all.
+  On a side street but people still find it.
+  I didn't like the protein pancakes though,
+  they compromised far too much on flavour to try to keep them protein healthy,
+  not worth it, and were quite difficult to get through.
+  When you fancy pancakes, this is not what you expect -
+  get normal pancakes at a normal place, you can't have everything at the same time.
+  The detox juice was as expected though, a bit bitter.
+  Wifi 148/23 Mbit/s.
+  [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Idea - Cara Dušana (Dorćol, Beograd)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 
