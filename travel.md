@@ -6,7 +6,7 @@ Short links to this page:
 
 [bit.ly/hari-travels](https://bit.ly/hari-travels)
 
-I've worked on 4 continents and have travelled to over 40 countries at this point.
+I've worked on 4 continents and travelled to over 40 countries at this point.
 
 Whether Consulting internationally or visiting for a holiday, here are some useful tips from my extensive travels.
 
@@ -1001,10 +1001,11 @@ Number of Countries: 44
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 20
+- Countries in 2025: 21
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania, North Macedonia
-- Unique Countries since Emigrating from the UK in 2024: 33
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania, North Macedonia, Bosnia and
+    Herzegovina
+- Unique Countries since Emigrating from the UK in 2024: 34
 
 Below are specific tips for each country, especially my favourite restaurants.
 
@@ -4223,6 +4224,11 @@ The lower end is typically about half that.
   However, my favourite pick at this restaurant is the veal sausages, and I don't normally rate sausages but these were
   full of flavour, I would go back just for these.
   The Baklava dessert was decent, better than the "venison" chocolate cake, the latter of which I would skip next time
+- [Orasac (Орашац)](https://maps.app.goo.gl/D9ok9vaHDVjJceWp7) - the "karadordeva snicla" pork wrapped around cheese and
+  coated in breadcrumbs was the best thing we had by far.
+  The beef goulash with mashed potato, and other pork dish we had was reasonable too.
+  They also have fresh squeezed orange juice.
+  Kitchen closes at 10:30pm
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
