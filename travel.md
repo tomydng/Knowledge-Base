@@ -93,6 +93,9 @@ Updated regularly as I travel the world all year.
     - [Ghent / Gent](#ghent--gent)
     - [Liege](#liege)
     - [Waterloo](#waterloo)
+  - [Bosnia](#bosnia)
+    - [Sarajevo](#sarajevo)
+      - [Taxis in Sarajevo](#taxis-in-sarajevo)
   - [Bulgaria](#bulgaria)
     - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
     - [Sofia](#sofia)
@@ -312,6 +315,9 @@ Updated regularly as I travel the world all year.
 
 Always compare 2-3 sites as you might think one will always get you a better deal,
 but once in a while it'll screw you with a much higher price than the others.
+
+[Rome2Rio](https://www.rome2rio.com/) - discover how to get anywhere by plane, train, bus, ferry and car. Especially
+useful if you're touring a region like Europe where things are not very far apart.
 
 [Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
 
@@ -987,7 +993,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 43
+Number of Countries: 44
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -1514,6 +1520,14 @@ Gentrified town just south of Brussels where Napoleon lost the famous battle.
 [Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
 Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
 You will need your Google Translate camera app to translate the menu as they don't speak English.
+
+### Bosnia
+
+#### Sarajevo
+
+##### Taxis in Sarajevo
+
+- [MojTaxi](https://www.mojtaxi.ba/)
 
 ### Bulgaria
 
@@ -2056,6 +2070,21 @@ Arrange a nearby parking next time
 
 I parked at [Parkoviště](https://maps.app.goo.gl/1VKm9r9w2B6dtKTs6) Zličín as even the Park & Rides were full there,
 but even out there it's still roughly €25 per week.
+
+<!--
+
+##### Hostels in Prague
+
+My favourite hostels are:
+
+- [Safestay Prague Charles Bridge](https://maps.app.goo.gl/yP4rjjR6YxpH8RrH7) - most central
+- [Sophie's Hostel](https://maps.app.goo.gl/E5meMyWoWzhwB24S8) - bit south, but walkable and the best interior
+- [Brix Bar & Hostel](https://maps.app.goo.gl/77FwRg52yLZoJm5R7) - further out but near my favourite brunch area in
+  Prague around the border of Prague 2 and Prague 3
+
+...but check for fluctuating rates as I stayed at Sophie's for £15 per night and then the next week it was £25 per night
+
+-->
 
 ##### Restaurants in Prague
 
@@ -4244,8 +4273,12 @@ The lower end is typically about half that.
   The detox juice was as expected though, a bit bitter.
   Wifi 148/23 Mbit/s.
   [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
-- [Idea - Cara Dušana (Dorćol, Beograd)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
+- [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
+- [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
+- [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
+- [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
+- [Street Gym](https://maps.app.goo.gl/eaNA7MgkWfEh348t9) - free park gym... do some pull ups bro...
 
 I __don't__ recommend:
 
