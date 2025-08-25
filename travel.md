@@ -96,6 +96,7 @@ Updated regularly as I travel the world all year.
   - [Bosnia](#bosnia)
     - [Sarajevo](#sarajevo)
       - [Taxis in Sarajevo](#taxis-in-sarajevo)
+      - [Restaurants in Sarajevo](#restaurants-in-sarajevo)
   - [Bulgaria](#bulgaria)
     - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
     - [Sofia](#sofia)
@@ -1528,7 +1529,53 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ##### Taxis in Sarajevo
 
-- [MojTaxi](https://www.mojtaxi.ba/)
+- [MojTaxi](https://www.mojtaxi.ba/) - didn't find any cars for me at the Bus Station East Sarajevo. I ended up taking
+  a local metered taxi which cost a ridiculous €25, more than the coach ride from Belgrade all the way away in Serbia.
+  Next time if not pressed for time I would just follow Google Maps and take public transport for €1
+
+##### Restaurants in Sarajevo
+
+- [Klopa](https://maps.app.goo.gl/3DRwS29Bk7LrZihh6) - the speciality platter with veal chops and beefsteak was great,
+  and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
+  They even have various fresh and mixed juice.
+  This was surprisingly good for a place so central, I had expected it to be a tourist trap
+- [Besame Mucho](https://maps.app.goo.gl/kU4tizwGMAkukKTS7) - the Bosnian speciality dumplings were even better than
+  expected, and the veal stew was very good too.
+  I could have eaten more of them.
+  The baked apple filled with wallnuts and topped with cream was a nice dessert too
+- [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi for €5-7 in a fresh
+  warm large home made pita bread - get the kajmak add-on
+- [Smashburger Marindvor](https://maps.app.goo.gl/U6LUtdwoJakKJRri6) - very good affordable burger restaurant, the
+  classic with pickles was my choice here for only €6.
+  This is more of a takeaway place as it only has a couple tables inside, and a couple tables outside, and there is a
+  sink to wash hands but surprisingly no toilet
+- [Caribou Coffee](https://maps.app.goo.gl/kiCaFwsNLMZ14EhV7) - bosnian coffee chain, this one is by the two malls.
+  Their speciality salted caramel budino is the popular drink here, and for good reason, it is tasty!
+  Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
+- [City Lounge](https://maps.app.goo.gl/9P7g6HHgwrxRAkcS8) - popular bar lounge - there isn't much else open late night
+  in Sarajevo on a non Friday/Satuday night so people congregate here
+- [Tesla](https://maps.app.goo.gl/cisSC96xRtPW9iG29) - late night pub, opposite City Lounge
+- [Market Srce](https://maps.app.goo.gl/WLkbeovu4SxNfz969) - 24/7 convenience store, next to Tesla pub and opposite
+  City Lounge - popular because this is a late night spot and also everything else is closed
+
+TODO:
+
+- [Baščaršija](https://maps.app.goo.gl/jKi3K2y9HpiNgyMn6) - bustling market
+- [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA)
+- [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - mall opposite SCC below
+- [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - mall opposite Alta above
+- [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
+  for after a shopping day
+- [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
+- [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5)
+- [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
+- [ASDŽ Aščinica](https://maps.app.goo.gl/1TEMXeFvTp7doKNK6)
+- [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8) - recommended by a local
+- [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6) - recommended by a local
+- [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59) - recommended by a local
+- [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
+- [Impasto](https://maps.app.goo.gl/Ws25hTWUVk1xZj879) - on the main strip and kitchen is open until 3pm so you can get
+  a later breakfast here than most places
 
 ### Bulgaria
 
@@ -4271,6 +4318,8 @@ The lower end is typically about half that.
 - [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, juices, smoothies,
   protein shakes, eggs breakfasts (until 2pm), protein oatmeal, burgers, pasta, steaks, salads, these guys have it all.
   On a side street but people still find it.
+  The Ranch Eggs with turkey is like scrambled egg whites with turkey pieces, red bell pepper, tomato and spring onion,
+  not the most exciting dish, but healthy and proteiny.
   I didn't like the protein pancakes though,
   they compromised far too much on flavour to try to keep them protein healthy,
   not worth it, and were quite difficult to get through.
